@@ -94,7 +94,7 @@
   "Molar Boatworks Entrance": "Вход на Верфь Коренного",
   "Aboard Mephistopheles's Deck": "На Палубе Мефистофеля",
   "Cabins of Mephistopheles": "Каюты Мефистофеля",
-  "Pequod Town": "Pequod Town",
+  "Pequod Town": "Пекод Таун",
   "Marlin Port Club VIP Room": "ВИП-зал Клуба Порта Марлин",
   "Marlin Port Club Entrance": "Вход в Клуб Порта Марлин",
   "Abandoned Lobotomy Corp. Drilling Ship": "Заброшенная Буровая Установка Корп. Лоботомии",
@@ -321,5 +321,13 @@
   "Iberian Village?": "Иберийская деревня?",
   "Faro Muerto, Entrance": "Фаро Муэрто, вход",
   "Faro Muerto, Yesterday": "Фаро Муэрто, вчера",
-  "Faro Muerto Clearing": "Площадь Фаро Муэрто"
+  "Faro Muerto Clearing": "Площадь Фаро Муэрто",
+  "LCE Research Team Hallway": "Коридор Исследовательской Команды LCE",
+  "LCCB Transporter Truck": "Грузовик LCCB",
+  "LCE Research Team Broadcast Sector Entrance": "Вход в Сектор вещания Исследовательской Команды LCE",
+  "LCE Research Team Broadcast Sector": "Сектор вещания Исследовательской Команды LCE",
+  "LCE Research Team Laboratory": "Лаборатория Исследовательской Команды LCE",
+  "LCE Research Team\nLab. Sector": "Исследовательская команда LCE\nЛабораторный сектор",
+  "LCE Research Team Laboratory Entrance": "Вход в лабораторию Исследовательской Команды LCE",
+  "LCE Research Team Security Unit": "Отдел безопасности Исследовательской Команды LCE"
 }

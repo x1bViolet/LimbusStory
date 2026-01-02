@@ -3343,5 +3343,214 @@
   {
     "original": "Faro Muerto",
     "translation": "Фаро Муэрто"
+  },
+  {
+    "original": "Shi East Section 3",
+    "translation": "Восточная Ши Секция 3",
+    "model": "파우스트"
+  },
+  {
+    "original": "W Corp. Cleanup Agent",
+    "translation": "Агент Зачистки Корп. W",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Bloodfiend Hunter",
+    "translation": "Охотник на Кровожадов"
+  },
+  {
+    "original": "Third Kindred",
+    "translation": "Третий Сородич"
+  },
+  {
+    "original": "Fourth Kindred",
+    "translation": "Четвертый Сородич",
+    "model": "뫼르소"
+  },
+  {
+    "original": "Fourth Kindred",
+    "translation": "Четвертый Сородич"
+  },
+  {
+    "original": "Third Kindred",
+    "translation": "Третий Сородич",
+    "model": "뫼르소"
+  },
+  {
+    "original": "J Corp. Resident",
+    "translation": "Житель Корп. J"
+  },
+  {
+    "original": "Jeong's Office Rep",
+    "translation": "Представитель Офиса Чона",
+    "model": "이스마엘"
+  },
+  {
+    "original": "Night Awls Capitano",
+    "translation": "Капитано Ночных Шильев",
+    "model": "그레고르"
+  },
+  {
+    "original": "Night Awls",
+    "translation": "Ночные Шилья"
+  },
+  {
+    "original": "Library Director",
+    "translation": "Директор Библиотеки"
+  },
+  {
+    "original": "Floor of History",
+    "translation": "Этаж Истории"
+  },
+  {
+    "original": "Heishou Pack - You Branch Adept",
+    "translation": "Стая Хэйшоу - Адепт Ветви Ю",
+    "model": "히스클리프"
+  },
+  {
+    "original": "Heishou Pack - Mao Branch Adept",
+    "translation": "Стая Хэйшоу - Адепт Ветви Мао"
+  },
+  {
+    "original": "Distortion",
+    "translation": "Искажение"
+  },
+  {
+    "original": "Heishou Pack -\nYou Branch",
+    "translation": "Стая Хэйшоу -\nВетвь Ю",
+    "model": "싱클레어"
+  },
+  {
+    "original": "Heishou Pack - Wei Branch",
+    "translation": "Стая Хэйшоу - Ветвь Вэй",
+    "model": "돈키호테"
+  },
+  {
+    "original": "Heishou Pack - Chou Branch",
+    "translation": "Стая Хэйшоу - Ветвь Чоу"
+  },
+  {
+    "original": "Heishou Pack - Wei Branch",
+    "translation": "Стая Хэйшоу - Ветвь Вэй"
+  },
+  {
+    "original": "Hongyuan",
+    "translation": "Хунъюань",
+    "model": "료슈"
+  },
+  {
+    "original": "Shi Family",
+    "translation": "Семья Ши"
+  },
+  {
+    "original": "R Corp. 4th Pack Reindeer",
+    "translation": "Олень 4 стаи Корп. R",
+    "model": "로쟈"
+  },
+  {
+    "original": "Broadcast Sector",
+    "translation": "Сектор Вещания",
+    "model": "에즈라"
+  },
+  {
+    "original": "Broadcast Sector",
+    "translation": "Сектор Вещания",
+    "model": "마튼"
+  },
+  {
+    "original": "Broadcast Sector",
+    "translation": "Сектор Вещания",
+    "model": "호엔하임"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "에즈라"
+  },
+  {
+    "original": "The Index Messenger",
+    "translation": "Посыльный Указательного"
+  },
+  {
+    "original": "The Index Proselyte",
+    "translation": "Прозелит Указательного",
+    "model": "파우스트"
+  },
+  {
+    "original": "The Carnival",
+    "translation": "Карнавал"
+  },
+  {
+    "original": "LCA Vanguard Team 3",
+    "translation": "3-ий отряд Авангарда LCA",
+    "model": "오티스"
+  },
+  {
+    "original": "LCA Vanguard Team 3",
+    "translation": "3-ий отряд Авангарда LCA"
+  },
+  {
+    "original": "LCA",
+    "translation": "LCA"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엄지아비"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "엄지제자"
+  },
+  {
+    "original": "LCE Department",
+    "translation": "Отдел LCE",
+    "model": "아나운서"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거료슈2"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소지아비"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "검지아비상"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "과거료슈3"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "료슈딸"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "소지제자"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "약지제자1"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "LCA우제트"
+  },
+  {
+    "original": "???",
+    "translation": "???",
+    "model": "중지제자"
   }
 ]
